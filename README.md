@@ -4,4 +4,4 @@ This a simple weather app that allows the user to search any city in the world a
 ![image](https://user-images.githubusercontent.com/62409790/130252066-87b39d9f-d312-4b5a-a6f9-56faec3b1e61.png)
 
 
-https://it-nelson-guerra.github.io/Animated-Weather-Website/
+https://it-nelson-guerra.github.io/Javascript-Weather-Website/
